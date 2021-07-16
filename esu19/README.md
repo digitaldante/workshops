@@ -1,4 +1,4 @@
-**Details for [ESU 2021](http://esu.culintec.de/) - Hands on Humanities Data**
+**Details for [ESU 2021](https://esu.fdhl.info/) - Hands on Humanities Data**
 
 Instructors: Carol Chiodo (Harvard) and Lauren Tilton (University of Richmond)
 
